@@ -2,16 +2,16 @@
   "name": "MTW-TOKEN",
   "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
   "keywords": [
-      "USDT1",
-      "USDT2",
-      "USDT3"
+      "aa",
+      "bb",
+      "cc"
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
     "tokens": [
       {
       "chainId": 47,
       "address": "0x0ddd35e006c82b40c1a2ac95d72837d8fae8923f",
-      "name": "USDT",
+      "name": "MSC-USDT",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
