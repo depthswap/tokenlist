@@ -1,25 +1,49 @@
 {
-  "name": "MTW-TOKEN",
-  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "name": "My Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
-      "aa",
-      "bb",
-      "cc"
-    ],
-    "timestamp": "2020-09-01T01:40:34.305Z",
-    "tokens": [
-      {
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": "Tokens that earn interest on compound.finance"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
       "chainId": 47,
       "address": "0x0ddd35e006c82b40c1a2ac95d72837d8fae8923f",
-      "name": "MSC-USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
-      }
-    ],
-    "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 47,
+      "address": "0x0ddd35e006c82b40c1a2ac95d72837d8fae8923f",
+      "symbol": "cUSDC",
+      "name": "Compound USD Coin",
+      "decimals": 8,
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "tags": [
+        "compound"
+      ]
     }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
