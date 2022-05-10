@@ -1,5 +1,5 @@
 {
-  "name": "My Token List",
+  "name": "MSC Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     "audited",
@@ -8,11 +8,11 @@
   ],
   "tags": {
     "stablecoin": {
-      "name": "Stablecoin",
+      "name": "MTW",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
     "compound": {
-      "name": "Compound Finance",
+      "name": "MTW Finance",
       "description": "Tokens that earn interest on compound.finance"
     }
   },
@@ -21,23 +21,45 @@
     {
       "chainId": 47,
       "address": "0x0ddd35e006c82b40c1a2ac95d72837d8fae8923f",
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "decimals": 6,
-      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "symbol": "USDT",
+      "name": "Meta-Peg USD Token",
+      "decimals": 18,
+      "logoURI": "",
       "tags": [
-        "stablecoin"
+        "USDT"
       ]
     },
     {
       "chainId": 47,
-      "address": "0x0ddd35e006c82b40c1a2ac95d72837d8fae8923f",
-      "symbol": "cUSDC",
-      "name": "Compound USD Coin",
-      "decimals": 8,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "address": "0x273c0417f4c4a565a4e9a08ef1ab6a119c6b2cb3",
+      "symbol": "ISO",
+      "name": "ISO Token",
+      "decimals": 18,
+      "logoURI": "",
       "tags": [
-        "compound"
+        "ISO"
+      ]
+    },
+    {
+      "chainId": 47,
+      "address": "0x1ed3c1bffd91cf47b5b43d8ae0b7ecb1ec41a9b3",
+      "symbol": "ISF",
+      "name": "ISF Token",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": [
+        "ISF"
+      ]
+    },
+    {
+      "chainId": 47,
+      "address": "0xbbec6f8b6b761c6e0e252f07e63f1803d361fb38",
+      "symbol": "ISW",
+      "name": "ISW Token",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": [
+        "ISW"
       ]
     }
   ],
