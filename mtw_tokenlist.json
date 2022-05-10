@@ -24,6 +24,7 @@
       "symbol": "USDT",
       "name": "Meta-Peg USD Token",
       "decimals": 18,
+      "logoURI":"https://github.com/depthswap/tokenlist/blob/main/tether-usdt-logo.png",
       "tags": [
         "USDT"
       ]
