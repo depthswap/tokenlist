@@ -24,7 +24,6 @@
       "symbol": "USDT",
       "name": "Meta-Peg USD Token",
       "decimals": 18,
-      "logoURI": "",
       "tags": [
         "USDT"
       ]
@@ -35,7 +34,6 @@
       "symbol": "ISO",
       "name": "ISO Token",
       "decimals": 18,
-      "logoURI": "",
       "tags": [
         "ISO"
       ]
@@ -46,7 +44,6 @@
       "symbol": "ISF",
       "name": "ISF Token",
       "decimals": 18,
-      "logoURI": "",
       "tags": [
         "ISF"
       ]
@@ -57,7 +54,6 @@
       "symbol": "ISW",
       "name": "ISW Token",
       "decimals": 18,
-      "logoURI": "",
       "tags": [
         "ISW"
       ]
